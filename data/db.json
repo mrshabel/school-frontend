@@ -1,0 +1,284 @@
+{
+  "students": [
+    {
+      "name": "john doe",
+      "email": "john.doe@example.com",
+      "class": { "_id": "1", "name": "1" },
+      "gender": "male",
+      "parent": { "name": "jane doe", "phone": "+1234567890" },
+      "phone": "+9876543210",
+      "_id": "1"
+    },
+    {
+      "name": "jane smith",
+      "email": "jane.smith@example.com",
+      "class": { "_id": "2", "name": "2" },
+      "gender": "female",
+      "parent": { "name": "john smith", "phone": "+9876543210" },
+      "phone": "+1234567890",
+      "_id": "2"
+    },
+    {
+      "name": "alice johnson",
+      "email": "alice.johnson@example.com",
+      "class": { "_id": "3", "name": "3" },
+      "gender": "female",
+      "parent": { "name": "bob johnson", "phone": "+8765432109" },
+      "phone": "+1098765432",
+      "_id": "3"
+    },
+    {
+      "name": "bob wilson",
+      "email": "bob.wilson@example.com",
+      "class": { "_id": "4", "name": "4" },
+      "gender": "male",
+      "parent": { "name": "alice wilson", "phone": "+7654321098" },
+      "phone": "+8901234567",
+      "_id": "4"
+    },
+    {
+      "name": "eva brown",
+      "email": "eva.brown@example.com",
+      "class": { "_id": "5", "name": "5" },
+      "gender": "female",
+      "parent": { "name": "charlie brown", "phone": "+6543210987" },
+      "phone": "+2345678901",
+      "_id": "5"
+    },
+    {
+      "name": "charlie white",
+      "email": "charlie.white@example.com",
+      "class": { "_id": "6", "name": "6" },
+      "gender": "male",
+      "parent": { "name": "eva white", "phone": "+5432109876" },
+      "phone": "+3456789012",
+      "_id": "6"
+    },
+    {
+      "name": "grace miller",
+      "email": "grace.miller@example.com",
+      "class": { "_id": "7", "name": "7" },
+      "gender": "female",
+      "parent": { "name": "david miller", "phone": "+4321098765" },
+      "phone": "+4567890123",
+      "_id": "7"
+    },
+    {
+      "name": "david davis",
+      "email": "david.davis@example.com",
+      "class": { "_id": "8", "name": "8" },
+      "gender": "male",
+      "parent": { "name": "grace davis", "phone": "+3210987654" },
+      "phone": "+5678901234",
+      "_id": "8"
+    },
+    {
+      "name": "sophie lee",
+      "email": "sophie.lee@example.com",
+      "class": { "_id": "9", "name": "9" },
+      "gender": "female",
+      "parent": { "name": "edward lee", "phone": "+2109876543" },
+      "phone": "+6789012345",
+      "_id": "9"
+    },
+    {
+      "name": "edward smith",
+      "email": "edward.smith@example.com",
+      "class": { "_id": "9", "name": "9" },
+      "gender": "male",
+      "parent": { "name": "sophie smith", "phone": "+1098765432" },
+      "phone": "+7890123456",
+      "_id": "10"
+    },
+    {
+      "name": "emma green",
+      "email": "emma.green@example.com",
+      "class": { "_id": "1", "name": "1" },
+      "gender": "female",
+      "parent": { "name": "william green", "phone": "+9876543210" },
+      "phone": "+1234567890",
+      "_id": "11"
+    },
+    {
+      "name": "william jones",
+      "email": "william.jones@example.com",
+      "class": { "_id": "2", "name": "2" },
+      "gender": "male",
+      "parent": { "name": "emma jones", "phone": "+8765432109" },
+      "phone": "+1098765432",
+      "_id": "12"
+    },
+    {
+      "name": "olivia moore",
+      "email": "olivia.moore@example.com",
+      "class": { "_id": "3", "name": "3" },
+      "gender": "female",
+      "parent": { "name": "jackson moore", "phone": "+7654321098" },
+      "phone": "+8901234567",
+      "_id": "13"
+    },
+    {
+      "name": "jackson smith",
+      "email": "jackson.smith@example.com",
+      "class": { "_id": "4", "name": "4" },
+      "gender": "male",
+      "parent": { "name": "olivia smith", "phone": "+6543210987" },
+      "phone": "+2345678901",
+      "_id": "14"
+    },
+    {
+      "name": "amelia williams",
+      "email": "amelia.williams@example.com",
+      "class": { "_id": "5", "name": "5" },
+      "gender": "female",
+      "parent": { "name": "david williams", "phone": "+5432109876" },
+      "phone": "+3456789012",
+      "_id": "15"
+    },
+    {
+      "name": "david johnson",
+      "email": "david.johnson@example.com",
+      "class": { "_id": "6", "name": "6" },
+      "gender": "male",
+      "parent": { "name": "amelia johnson", "phone": "+4321098765" },
+      "phone": "+4567890123",
+      "_id": "16"
+    },
+    {
+      "name": "olivia brown",
+      "email": "olivia.brown@example.com",
+      "class": { "_id": "7", "name": "7" },
+      "gender": "female",
+      "parent": { "name": "charlie brown", "phone": "+3210987654" },
+      "phone": "+5678901234",
+      "_id": "17"
+    },
+    {
+      "name": "charlie davis",
+      "email": "charlie.davis@example.com",
+      "class": { "_id": "8", "name": "8" },
+      "gender": "male",
+      "parent": { "name": "olivia davis", "phone": "+2109876543" },
+      "phone": "+6789012345",
+      "_id": "18"
+    },
+    {
+      "name": "isabella moore",
+      "email": "isabella.moore@example.com",
+      "class": { "_id": "9", "name": "9" },
+      "gender": "female",
+      "parent": { "name": "jackson moore", "phone": "+1098765432" },
+      "phone": "+7890123456",
+      "_id": "19"
+    },
+    {
+      "name": "ethan lee",
+      "email": "ethan.lee@example.com",
+      "class": { "_id": "1", "name": "1" },
+      "gender": "male",
+      "parent": { "name": "sophie lee", "phone": "+9876543210" },
+      "phone": "+1234567890",
+      "_id": "20"
+    },
+    {
+      "name": "sophia davis",
+      "email": "sophia.davis@example.com",
+      "class": { "_id": "2", "name": "2" },
+      "gender": "female",
+      "parent": { "name": "olivia davis", "phone": "+8765432109" },
+      "phone": "+1098765432",
+      "_id": "21"
+    },
+    {
+      "name": "michael white",
+      "email": "michael.white@example.com",
+      "class": { "_id": "3", "name": "3" },
+      "gender": "male",
+      "parent": { "name": "eva white", "phone": "+7654321098" },
+      "phone": "+8901234567",
+      "_id": "22"
+    },
+    {
+      "name": "olivia smith",
+      "email": "olivia.smith@example.com",
+      "class": { "_id": "4", "name": "4" },
+      "gender": "female",
+      "parent": { "name": "john smith", "phone": "+6543210987" },
+      "phone": "+2345678901",
+      "_id": "23"
+    },
+    {
+      "name": "jacob wilson",
+      "email": "jacob.wilson@example.com",
+      "class": { "_id": "5", "name": "5" },
+      "gender": "male",
+      "parent": { "name": "alice wilson", "phone": "+5432109876" },
+      "phone": "+3456789012",
+      "_id": "24"
+    },
+    {
+      "name": "emma brown",
+      "email": "emma.brown@example.com",
+      "class": { "_id": "6", "name": "6" },
+      "gender": "female",
+      "parent": { "name": "charlie brown", "phone": "+4321098765" },
+      "phone": "+4567890123",
+      "_id": "25"
+    },
+    {
+      "name": "daniel miller",
+      "email": "daniel.miller@example.com",
+      "class": { "_id": "7", "name": "7" },
+      "gender": "male",
+      "parent": { "name": "grace miller", "phone": "+3210987654" },
+      "phone": "+5678901234",
+      "_id": "26"
+    },
+    {
+      "name": "grace jones",
+      "email": "grace.jones@example.com",
+      "class": { "_id": "8", "name": "8" },
+      "gender": "female",
+      "parent": { "name": "william jones", "phone": "+2109876543" },
+      "phone": "+6789012345",
+      "_id": "27"
+    },
+    {
+      "name": "william moore",
+      "email": "william.moore@example.com",
+      "class": { "_id": "9", "name": "9" },
+      "gender": "male",
+      "parent": { "name": "olivia moore", "phone": "+1098765432" },
+      "phone": "+7890123456",
+      "_id": "28"
+    },
+
+    {
+      "name": "william moore",
+      "email": "william.moore@example.com",
+      "class": { "_id": "10", "name": "3" },
+      "gender": "male",
+      "parent": { "name": "olivia moore", "phone": "+1098765432" },
+      "phone": "+7890123456",
+      "_id": "28"
+    },
+    {
+      "name": "ava smith",
+      "email": "ava.smith@example.com",
+      "class": { "_id": "11", "name": "6" },
+      "gender": "female",
+      "parent": { "name": "john smith", "phone": "+9876543210" },
+      "phone": "+1234567890",
+      "_id": "29"
+    },
+    {
+      "name": "jack davis",
+      "email": "jack.davis@example.com",
+      "class": { "_id": "12", "name": "5" },
+      "gender": "male",
+      "parent": { "name": "olivia davis", "phone": "+8765432109" },
+      "phone": "+1098765432",
+      "_id": "30"
+    }
+  ]
+}
